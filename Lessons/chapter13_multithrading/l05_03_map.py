@@ -4,8 +4,8 @@
 # Запуск одной функции с разными аргументами
 
 from concurrent.futures import ThreadPoolExecutor
-from Lessons.chapter13_multithrading.l01_problem_demo import read_ints
-from Lessons.chapter13_multithrading.l03_01_seq_vs_paralle import count_three_sum
+from l01_problem_demo import read_ints
+from l03_01_seq_vs_paralle import count_three_sum
 
 if __name__ == "__main__":
     print("Started main")
