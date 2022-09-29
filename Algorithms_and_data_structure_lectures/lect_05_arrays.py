@@ -1,4 +1,6 @@
-#
+
+# Основы работы с массивами
+
 def array_search(array: list, size: int, number: int):
     """Осуществляет поиск числа num в массиве array
     от 0 до size включительно.
